@@ -1,10 +1,10 @@
 import { useState } from "react";
-import HOMEPAGE from "./assets/components/HOMEPAGE";
+import MainComponent from "./Components/MainComponent";
 
 function App() {
   return (
     <>
-      <HOMEPAGE />
+      <MainComponent />
     </>
   );
 }
