@@ -1,11 +1,10 @@
 import { useState } from "react";
 import "./App.css";
-import MainComponent from "./Components/MainComponent";
 
 function App() {
   return (
     <>
-      <MainComponent />
+      <h1>Victory</h1>
     </>
   );
 }
