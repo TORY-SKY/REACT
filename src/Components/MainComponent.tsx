@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import HamburgerMenuIcon from "./CssFile/Header.css";
+import HamburgerMenuIcon from "./Header";
 
 const MainComponent = () => {
   const [isOpen, setIsOpen] = useState(false);

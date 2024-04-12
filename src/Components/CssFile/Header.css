@@ -8,7 +8,22 @@
     font-style: normal;
   } */
   
-
+.Main-header-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 9px 10px;
+  background-color: red;
+  width: 100%;
+}
+.Main-header-container nav{
+  display: flex;
+  justify-content: space-between;
+  align-items:center;
+}
+.Main-header-container nav li{
+  list-style-type: none;
+}
 .hamburger-menu-icon{
     width: 30px;
     height: 20px;
