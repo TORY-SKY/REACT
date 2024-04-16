@@ -16,6 +16,8 @@ footer{
   font-optical-sizing: auto;
   font-weight: 900;
   font-style: normal;
+  color: black;
+  transition: 1s ease-in-out;
 } 
 
 /* coming back to this fuck!!!!!! */
