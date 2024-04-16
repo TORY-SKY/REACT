@@ -15,7 +15,7 @@ footer{
   font-family: "Jost", sans-serif;
   font-optical-sizing: auto;
   font-weight: 900;
-  font-style: normal;
+  font-style: normal; 
   color: black;
   transition: 1s ease-in-out;
 } 
